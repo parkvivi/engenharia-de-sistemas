@@ -3,11 +3,9 @@ Este repositório contém trabalhos desenvolvidos na disciplina Laboratório de 
 
 ## 📂 Conteúdos
 ```
-EngenhariaSistemas-Unifesp/
-├── Processador/                        
-# Modelagem SysML e breve desrição de um processador *
-|
-├── Segue-Faixa/         
-# Modelagem SysML e breve desrição de um robô segue-faixa
+engenharia-de-sistemas/
+├── Processador/    # Modelagem SysML e breve descrição de um processador *
+├── Segue-Faixa/    # Modelagem SysML e breve descrição de um robô segue-faixa
+└── README.md
 ```
 > \* projeto [ARM-32bit](https://github.com/parkvivi/ARM-32bit)
